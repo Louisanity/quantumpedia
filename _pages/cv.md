@@ -11,36 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D, Quantum Engineering, Imperial College London, 2021-2024 (expected)
+* MSc, Advanced Material Science and Engineering, Imperial College London, 2017-2018
+* MSc Quantum Computing, Computer Science, Universidad Politécnica de Madrid, 2020-2022
+* PGDip, Data Science, The London School of Economics and Political Science (LSE), 2018-2019
+* Certificate, Quantum Computing, The Coding School, 2020-2021
+* Exchange Student, Tsing Hua University, 2015-2015
+* Exchange Student, Peking University, 2013-2013
+* B.S., National Sun Yat-Sen University, 2012-2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* R&D Process Engineer, Taiwan Semiconductor Manufacturing Company, 2017, 2019-2021
+  * Duties included: Developing the Metal-Insulator-Metal etching process, data analysis/material characterization for manufacturing process control and defect improvement
+* R&D Device Engineer, Taiwan Semiconductor Manufacturing Company, 2022
+  * Duties included: Designing Embedded Systems, won Research Project Prize
+* Quantum-Policy-Making Assistant, Imperial College London, 2022 - Present
+* Researcher (PhD Student), Imperial College London, 2021 - Present
+  * Duties included: Developing a MASER device for quantum signal processing, Managing Laser Lab
+* Graduate Teaching Assistant, Imperial College London, 2021 - Present
+* Mentor, IBM, 2023 - Present
+* Visiting Researcher, City University of Hong Kong, 2023 - Present
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantum Computing
+* Quantum machine learning algorithms
+* Nanofabrication
+* Microwave circuit design
+* Experimental solid-state physics
+* Optoelectronics
+* Semiconductor materials
+* SPICE/COMSOL/TCAD Simulation
+* Data Science
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -56,4 +61,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder, Quantumpedia
+* President, Imperial College Quantum Tech Society (QTSoc)
+* Qiskit Advocate, Project Mentor, IBM
+* Mentor, Quantum Open Source Foundation
